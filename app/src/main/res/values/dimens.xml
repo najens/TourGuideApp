@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of main activity categories -->
+    <dimen name="category_height">48dp</dimen>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">152dp</dimen>
+</resources>

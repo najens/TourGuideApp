@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">LondonTourGuide</string>
+    <!-- Activity titles -->
+    <string name="sites_activity">Sites</string>
+    <string name="restaurants_activity">Restaurants</string>
+    <string name="recreation_activity">Recreation</string>
+    <string name="entertainment_activity">Entertainment</string>
+    <!-- List item sample text -->
+    <string name="sample_name">Restaurant Name</string>
+    <string name="sample_price">$$$</string>
+    <string name="sample_description">Restaurant</string>
+    <string name="sample_address">Westminster, London</string>
+    <string name="sample_hours">9am - 10pm</string>
+    <!-- Sites list -->
+    <!-- Site 1 -->
+    <string name="site_1_name">Tower of London</string>
+    <string name="site_1_rating">4.6</string>
+    <string name="site_1_price">£21.50</string>
+    <string name="site_1_description">Medieval Castle</string>
+    <string name="site_1_address">St Katharine\'s &amp; Wapping</string>
+    <string name="site_1_hours">9am - 5:30pm</string>
+    <!-- Site 2 -->
+    <string name="site_2_name">Trafalgar Square</string>
+    <string name="site_2_rating">4.5</string>
+    <string name="site_2_price">Free</string>
+    <string name="site_2_description">Public Square</string>
+    <string name="site_2_address">Trafalgar Square</string>
+    <string name="site_2_hours">Open 24 hours</string>
+    <!-- Site 3 -->
+    <string name="site_3_name">Westminster Abbey</string>
+    <string name="site_3_rating">4.5</string>
+    <string name="site_3_price">£20.00</string>
+    <string name="site_3_description">Protestant Abbey</string>
+    <string name="site_3_address">20 Deans Yd, Westminster</string>
+    <string name="site_3_hours">9:30am - 3:30pm</string>
+    <!-- Site 4 -->
+    <string name="site_4_name">Buckingham Palace</string>
+    <string name="site_4_rating">4.4</string>
+    <string name="site_4_price">£23.00</string>
+    <string name="site_4_description">Home of the Royal Family</string>
+    <string name="site_4_address">Westminster</string>
+    <string name="site_4_hours">9:30am - 6:30pm</string>
+    <!-- Site 5 -->
+    <string name="site_5_name">Natural History Museum</string>
+    <string name="site_5_rating">4.6</string>
+    <string name="site_5_price">Free</string>
+    <string name="site_5_description">Museum</string>
+    <string name="site_5_address">Cromwell Rd, Kensington</string>
+    <string name="site_5_hours">10am - 5:50pm</string>
+    <!-- Site 6 -->
+    <string name="site_6_name">Hampton Court Palace</string>
+    <string name="site_6_rating">4.7</string>
+    <string name="site_6_price">£18.40</string>
+    <string name="site_6_description">Historical Palace</string>
+    <string name="site_6_address">Molesey, East Molesey</string>
+    <string name="site_6_hours">10am - 6pm</string>
+    <!-- Restaurants list -->
+    <!-- Restaurant 1 -->
+    <string name="restaurant_1_name">The Ledbury</string>
+    <string name="restaurant_1_rating">4.6</string>
+    <string name="restaurant_1_price">$$$</string>
+    <string name="restaurant_1_description">French Restaurant</string>
+    <string name="restaurant_1_address">127 Ledbury Rd, Notting Hill</string>
+    <string name="restaurant_1_hours">12–2pm, 6:30 – 9:45pm</string>
+    <!-- Restaurant 2 -->
+    <string name="restaurant_2_name">The Wolseley</string>
+    <string name="restaurant_2_rating">4.3</string>
+    <string name="restaurant_2_price">$$$</string>
+    <string name="restaurant_2_description">European Restaurant</string>
+    <string name="restaurant_2_address">160 Piccadilly, St. James\'s</string>
+    <string name="restaurant_2_hours">7am - 12am</string>
+    <!-- Restaurant 3 -->
+    <string name="restaurant_3_name">Gymkhana</string>
+    <string name="restaurant_3_rating">4.5</string>
+    <string name="restaurant_3_price">$$$</string>
+    <string name="restaurant_3_description">Indian Restaurant</string>
+    <string name="restaurant_3_address">42 Albemarle St, Mayfair</string>
+    <string name="restaurant_3_hours">12 – 2:30pm, 5:30 – 10:30pm </string>
+    <!-- Restaurant 4 -->
+    <string name="restaurant_4_name">Hawksmoor Seven Dials</string>
+    <string name="restaurant_4_rating">4.6</string>
+    <string name="restaurant_4_price">$$$</string>
+    <string name="restaurant_4_description">British Restaurant</string>
+    <string name="restaurant_4_address">11 Langley St</string>
+    <string name="restaurant_4_hours">12 – 3pm, 5 – 10:30pm</string>
+    <!-- Restaurant 5 -->
+    <string name="restaurant_5_name">Barrafina</string>
+    <string name="restaurant_5_rating">4.5</string>
+    <string name="restaurant_5_price">$$</string>
+    <string name="restaurant_5_description">Tapas Restaurant</string>
+    <string name="restaurant_5_address">26–27 Dean St, Soho</string>
+    <string name="restaurant_5_hours">12 – 3pm, 5 – 11pm</string>
+    <!-- Restaurant 6 -->
+    <string name="restaurant_6_name">Hoppers Soho</string>
+    <string name="restaurant_6_rating">4.5</string>
+    <string name="restaurant_6_price">$</string>
+    <string name="restaurant_6_description">Sri Lankan Restaurant</string>
+    <string name="restaurant_6_address">49 Frith St, Soho</string>
+    <string name="restaurant_6_hours">12 – 2:30pm, 5:30 – 10:30pm</string>
+    <!-- Recreation list -->
+    <!-- Recreation 1 -->
+    <string name="recreation_1_name">Trent Park Golf Club</string>
+    <string name="recreation_1_rating">4.1</string>
+    <string name="recreation_1_price">£10.00</string>
+    <string name="recreation_1_description">Golf Club</string>
+    <string name="recreation_1_address">Bramley Rd</string>
+    <string name="recreation_1_hours">8am - 9:30pm</string>
+    <!-- Recreation 2 -->
+    <string name="recreation_2_name">Hyde Park</string>
+    <string name="recreation_2_rating">4.7</string>
+    <string name="recreation_2_price">£2.40 per hour</string>
+    <string name="recreation_2_description">Recreation Park</string>
+    <string name="recreation_2_address">Westminster</string>
+    <string name="recreation_2_hours">5am - 12am</string>
+    <!-- Recreation 3 -->
+    <string name="recreation_3_name">Thames River Cruise</string>
+    <string name="recreation_3_rating">4.5</string>
+    <string name="recreation_3_price">$39.10</string>
+    <string name="recreation_3_description">Cruise</string>
+    <string name="recreation_3_address">Thames River</string>
+    <string name="recreation_3_hours">6:30pm</string>
+    <!-- Recreation 4 -->
+    <string name="recreation_4_name">London Eye</string>
+    <string name="recreation_4_rating">4.4</string>
+    <string name="recreation_4_price">£19.50</string>
+    <string name="recreation_4_description">Ferris Wheel</string>
+    <string name="recreation_4_address">Lambeth</string>
+    <string name="recreation_4_hours">11am - 6pm</string>
+    <!-- Recreation 5 -->
+    <string name="recreation_5_name">London Bike Tour</string>
+    <string name="recreation_5_rating">4.5</string>
+    <string name="recreation_5_price">$33.64</string>
+    <string name="recreation_5_description">Bike Tour</string>
+    <string name="recreation_5_address">56 Upper Ground, Lambeth</string>
+    <string name="recreation_5_hours">10:30am</string>
+    <!-- Recreation 6 -->
+    <string name="recreation_6_name">Old City Walking Tour</string>
+    <string name="recreation_6_rating">4.5</string>
+    <string name="recreation_6_price">$19.11</string>
+    <string name="recreation_6_description">Walking Tour</string>
+    <string name="recreation_6_address">Central London</string>
+    <string name="recreation_6_hours">3:30pm</string>
+    <!-- Entertainment list -->
+    <!-- Entertainment 1 -->
+    <string name="entertainment_1_name">Wicked</string>
+    <string name="entertainment_1_rating">5.0</string>
+    <string name="entertainment_1_price">$132.82</string>
+    <string name="entertainment_1_description">Musical</string>
+    <string name="entertainment_1_address">17 Wilton Rd, Pimlico</string>
+    <string name="entertainment_1_hours">7:30pm</string>
+    <!-- Entertainment 2 -->
+    <string name="entertainment_2_name">The Lion King</string>
+    <string name="entertainment_2_rating">5.0</string>
+    <string name="entertainment_2_price">$115.95</string>
+    <string name="entertainment_2_description">Musical</string>
+    <string name="entertainment_2_address">21 Wellington St</string>
+    <string name="entertainment_2_hours">7:30pm</string>
+    <!-- Entertainment 3 -->
+    <string name="entertainment_3_name">Jasmine Thompson</string>
+    <string name="entertainment_3_rating">4.1</string>
+    <string name="entertainment_3_price">£27.00</string>
+    <string name="entertainment_3_description">Concert</string>
+    <string name="entertainment_3_address">Arena Square, Engineers Way</string>
+    <string name="entertainment_3_hours">Sat Oct 7, 6:15pm</string>
+    <!-- Entertainment 4 -->
+    <string name="entertainment_4_name">Walk the Moon</string>
+    <string name="entertainment_4_rating">4.2</string>
+    <string name="entertainment_4_price">£29.00</string>
+    <string name="entertainment_4_description">Concert</string>
+    <string name="entertainment_4_address">Orange Yard, Manettes St</string>
+    <string name="entertainment_4_hours">Tues Oct 10, 7:00pm</string>
+    <!-- Entertainment 5 -->
+    <string name="entertainment_5_name">Jessie J</string>
+    <string name="entertainment_5_rating">4.5</string>
+    <string name="entertainment_5_price">£33.55</string>
+    <string name="entertainment_5_description">Concert</string>
+    <string name="entertainment_5_address">Sheperd\'s Bush Green</string>
+    <string name="entertainment_5_hours">Thur Oct 12, 7:00pm</string>
+    <!-- Entertainment 6 -->
+    <string name="entertainment_6_name">Tottenham v Bournemouth</string>
+    <string name="entertainment_6_rating">4.7</string>
+    <string name="entertainment_6_price">£20.00</string>
+    <string name="entertainment_6_description">Premier League Match</string>
+    <string name="entertainment_6_address">Wembley Stadium, Wembley</string>
+    <string name="entertainment_6_hours">Sat Oct 14, 3:00pm</string>
+</resources>
